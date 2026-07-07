@@ -1,4 +1,4 @@
-شاید به علابق تحصیلیت شک کنی اما این پروژه شک رو از بین میبره با سوالات دفیفی که داره  
+شاید به علابق تحصیلیت شک کنی اما این پروژه شک رو از بین میبره با سوالات دقیقی که داره  
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi)
