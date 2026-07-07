@@ -1,5 +1,4 @@
-یک پروژه بک‌اند مدرن و سریع بر پایه **FastAPI**، مناسب برای توسعه APIهای حرفه‌ای با قابلیت احراز هویت، اتصال به پایگاه داده و مستندسازی خودکار.
-
+شاید به علابق تحصیلیت شک کنی اما این پروژه شک رو از بین میبره با سوالات دفیفی که داره  
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi)
