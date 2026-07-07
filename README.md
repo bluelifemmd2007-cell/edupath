@@ -101,30 +101,6 @@ uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload
 > * http://localhost:8001
 > * http://127.0.0.1:8001
 
----
-
-# 📂 ساختار پروژه
-
-```text
-project/
-│
-├── app/
-│   ├── main.py
-│   ├── api/
-│   ├── models/
-│   ├── schemas/
-│   ├── services/
-│   ├── core/
-│   ├── database.py
-│   └── dependencies.py
-│
-├── requirements.txt
-├── run.py
-├── README.md
-└── .env
-```
-
----
 
 # ⚙️ فایل تنظیمات (.env)
 
